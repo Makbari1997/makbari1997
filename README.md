@@ -14,8 +14,5 @@ Hi, I'm Masoud<br>I am a Data Scientist + ML Engineer<br>I also have some academ
 
 ---
 [![](https://visitcount.itsvg.in/api?id=makbari1997&icon=0&color=0)](https://visitcount.itsvg.in)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-hybrid-architecture-for-out-of-domain/out-of-distribution-ood-detection-on-atis)](https://paperswithcode.com/sota/out-of-distribution-ood-detection-on-atis?p=a-hybrid-architecture-for-out-of-domain)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-hybrid-architecture-for-out-of-domain/out-of-distribution-ood-detection-on-persian)](https://paperswithcode.com/sota/out-of-distribution-ood-detection-on-persian?p=a-hybrid-architecture-for-out-of-domain)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-hybrid-architecture-for-out-of-domain/out-of-distribution-ood-detection-on-snips)](https://paperswithcode.com/sota/out-of-distribution-ood-detection-on-snips?p=a-hybrid-architecture-for-out-of-domain)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
